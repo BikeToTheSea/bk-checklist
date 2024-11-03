@@ -27,7 +27,7 @@ are appropriate rerouted to them during each bike check.
     * [ ] Can the chain move?  Are there stuck links?  You might only be able to tell after pedalling.
     * [ ] Using the chain checker tool, is there too much stretch in the chain?
         * Relevant for bikes with shifters for multiple speeds
-        * Signle-speed bikes don't have this issue, as a maintainer can simply apply more tension to chain tensioners.
+        * Single-speed bikes don't have this issue, as a maintainer can simply apply more tension to chain tensioners.
 * [ ] Seat
     * [ ] Is seat height at confortable height?
     * If possible, determine the style of riding used on the bike in question.
