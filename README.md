@@ -1,6 +1,10 @@
 # Bike Kitchen Checklist
 Checklist for bike inspections at the [Bike Kitchen](https://biketothesea.org/bk/).
 
+## To Do
+* Create a diagnosis/prescription sheet
+* Explore visual guides for following the checklist
+
 ## Checklist Goals
 We follow the [ABC's of bike checks](https://bikeleague.org/videos/basic-bike-check/).
 More sophisticated workflows can be incorporated later, but these are key items
