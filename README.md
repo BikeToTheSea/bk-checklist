@@ -8,7 +8,7 @@ to check to ensure that possible systematic issues can be resolved before a BK
 client leaves, or issues requiring the skills of a more experienced BK volunteer
 are appropriate rerouted to them during each bike check.
 
-## Checlist Items
+## Checklist Items
 
 * [ ] Air
     * [ ] Is there enough air in the tires?
