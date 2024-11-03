@@ -1,7 +1,7 @@
 # Bike Kitchen Checklist
 Checklist for bike inspections at the [Bike Kitchen](https://biketothesea.org/bk/).
 
-## Checlist Goals
+## Checklist Goals
 We follow the [ABC's of bike checks](https://bikeleague.org/videos/basic-bike-check/).
 More sophisticated workflows can be incorporated later, but these are key items
 to check to ensure that possible systematic issues can be resolved before a BK
