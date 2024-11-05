@@ -36,6 +36,12 @@ are appropriate rerouted to them during each bike check.
     * [ ] Do the brakes work?
     * [ ] Do the brakes need adjustment?
     * [ ] What is the type and style of brakes?
+        * Be able to identify various rim brakes
+            * "No" visible brake apparatus: coaster brakes (i.e., pedal backwards to stop)
+            * Mechanical brake lines: cantilever, V-brakes, U-brakes, mechanical disc brakes
+            * Hydraullic disc brakes (dependent on brake modek, either: glycol-ether based, so DOT 3, DOT 4, DOT 5 and DOT 5.1; or mineral oil)
+         * Currently we con't do any bleeding of hydraullic brakes
+             * We need a sink to do this properly
 * [ ] Chain
     * [ ] Can the chain move?  Are there stuck links?  You might only be able to tell after pedaling.
     * [ ] Using the chain checker tool, is there too much stretch in the chain?
