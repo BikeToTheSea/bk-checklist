@@ -14,9 +14,12 @@ are appropriate rerouted to them during each bike check.
 
 ## Checklist Items
 
+* Put bike on bike stand
+    * Default to drive chain side facing towards you (or "out" from the bike stand)
+    * Unless you know the other side is needed
 * [ ] Air
     * [ ] Is there enough air in the tires?
-        * Use a floor pump with a pressure meter for accuracy and precision.  Find the recommeneded tire pressure number/range on the tire sidewall.
+        * Use a floor pump with a pressure meter for accuracy and precision.  Find the recommended tire pressure number/range on the tire sidewall.
     * [ ] What tire valves are on the bike?
         * The most common valve types on bikes sold in the U.S.A. are [Schrader](https://en.wikipedia.org/wiki/Schrader_valve) and [Presta](https://en.wikipedia.org/wiki/Presta_valve).
     * [ ] Do the tires have dry rot?
@@ -28,12 +31,12 @@ are appropriate rerouted to them during each bike check.
     * [ ] Do the brakes need adjustment?
     * [ ] What is the type and style of brakes?
 * [ ] Chain
-    * [ ] Can the chain move?  Are there stuck links?  You might only be able to tell after pedalling.
+    * [ ] Can the chain move?  Are there stuck links?  You might only be able to tell after pedaling.
     * [ ] Using the chain checker tool, is there too much stretch in the chain?
         * Relevant for bikes with shifters for multiple speeds
         * Single-speed bikes don't have this issue, as a maintainer can simply apply more tension to chain tensioners.
 * [ ] Seat
-    * [ ] Is seat height at confortable height?
+    * [ ] Is seat height at comfortable height?
     * If possible, determine the style of riding used on the bike in question.
     * Riding styles in more urban environments, where stopping quickly is prioritized, and you are not going very far distances (below 10-20 miles for each trip); then the seat height may slightly lower than hip height for increased comfort.
     * Riding styles that are closer to long-distance riding (such as riding distances 50 miles or more in a single trip, closer to [century rides](https://en.wikipedia.org/wiki/Century_ride)) should follow the standard rule of thumb: your seat height should be at hip height and you should be on your tip toes when stopping and leaning to one side.
@@ -42,7 +45,7 @@ are appropriate rerouted to them during each bike check.
 * The following tend to be issues found on cheaper bikes bought from large retail stores that don't specialize in bikes (such as Walmart, Target, and so on)
     * [ ] Are brake levers angled correctly?
         * [ ] Depends on each bike, but generally should point downard and below the horizon, not upward and pointing above the horizon.
-    * [ ] Are reflectors attatched correctly?
+    * [ ] Are reflectors attached correctly?
     * [ ] Are other convenience accessories, such as baskets, attached correctly and safely?
 
 ### Final send-off
