@@ -17,6 +17,12 @@ are appropriate rerouted to them during each bike check.
 * Put bike on bike stand
     * Default to drive chain side facing towards you (or "out" from the bike stand)
     * Unless you know the other side is needed
+* Preference for clamp locations:
+    * Seat post
+    * Vertical side of forward triangle
+    * Bottom of top edge of forward triangle
+* Be careful with carbon-fiber or aluminum frames/seat posts
+    * Metal alloys will have weld joints along joining edges on frame
 * [ ] Air
     * [ ] Is there enough air in the tires?
         * Use a floor pump with a pressure meter for accuracy and precision.  Find the recommended tire pressure number/range on the tire sidewall.
